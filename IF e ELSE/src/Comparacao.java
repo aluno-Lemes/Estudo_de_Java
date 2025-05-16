@@ -20,7 +20,5 @@ public class Comparacao {
         else {
             System.out.println(String.format("O numero %.2f é MENOR que %.2f",numero1,numero2));
         }
-
-
     }
 }
