@@ -14,11 +14,17 @@ O *branch* `challenges` contém **projetos de prática** voltados para o desenvo
 ## 🗂️ Estrutura do Repositório
 
 Estudo_de_Java/
+
 ├── conversor-de-moedas/
-│ ├── src/ ← Código-fonte Java organizado por pacotes
-│ ├── resources/ ← Arquivos auxiliares e configurações
-│ └── README.md ← Detalhes específicos do projeto
+
+│├── src/ ← Código-fonte Java organizado por pacotes
+
+│├── resources/ ← Arquivos auxiliares e configurações
+
+│└── README.md ← Detalhes específicos do projeto 
+
 ├── challenges/ ← Outros desafios e exercícios práticos
+
 └── README.md ← Este arquivo geral
 
 ---
