@@ -8,7 +8,7 @@ import java.net.URI;
 
 public class ExchangeApiClient {
 
-    private static final String api_key = System.getenv("SuaKey");
+    private static final String api_key = System.getenv("######");
 
     public String getBody(String valorBase, String valorAlvo, double quantia) throws IOException, InterruptedException {
         try {
