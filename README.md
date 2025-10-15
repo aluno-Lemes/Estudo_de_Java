@@ -1,5 +1,5 @@
 
-# ☕ Estudo de Java — Challenge: Conversor de Moedas
+# ☕ Challenge: Conversor de Moedas
 ---
 
 ## 📘 Sobre o Projeto
@@ -41,19 +41,10 @@ Estudo_de_Java/
 
 ---
 
-## 💡 Funcionalidades do Projeto *Conversor de Moedas*
+## 💡 Funcionalidades do Projeto
 
 - 🔄 Conversão de valores entre diferentes moedas  
 - 🌐 Integração com API externa para buscar taxas de câmbio  
 - ⚠️ Tratamento de erros e validação de entradas  
 - 🧩 Estrutura modular e orientada a objetos  
 - 🧠 Foco em boas práticas e aprendizado contínuo  
-
----
-
-## 🚀 Como Executar o Projeto
-
-### 1️⃣ Clone o repositório
-```bash
-git clone https://github.com/aluno-Lemes/Estudo_de_Java.git
-
