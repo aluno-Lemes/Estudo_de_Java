@@ -1,6 +1,6 @@
 # Estudo_de_Java
-Algumas atividades e desafios propostos pela Oracle
-
+Este repositório foi criado com o objetivo de **registrar e aplicar estudos em Java**, explorando desde conceitos básicos até desafios práticos com APIs e integração de dados.  
+O *branch* `challenges` contém **projetos de prática** voltados para o desenvolvimento de lógica, backend e consumo de APIs REST.
 ## 🚀 Desafio de Projeto 🖥️
 ### <a href="https://github.com/aluno-Lemes/Estudo_de_Java/tree/challenges"> Challenge Conversor de Moedas </a>
 
