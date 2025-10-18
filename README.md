@@ -4,10 +4,8 @@
 
 ## 📘 Sobre o Projeto
 
-Este repositório foi criado com o objetivo de **registrar e aplicar estudos em Java**, explorando desde conceitos básicos até desafios práticos com APIs e integração de dados.  
-O *branch* `challenges` contém **projetos de prática** voltados para o desenvolvimento de lógica, backend e consumo de APIs REST.
 
-> 🔍 O principal projeto atualmente é o **Conversor de Moedas**, um aplicativo em Java que se conecta a uma API para obter taxas de câmbio em tempo real e realizar conversões entre moedas.
+🔍 O principal projeto atualmente é o **Conversor de Moedas**, um aplicativo em Java que se conecta a uma API para obter taxas de câmbio em tempo real e realizar conversões entre moedas.
 
 ---
 
